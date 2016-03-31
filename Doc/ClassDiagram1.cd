@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JLVidalTranspose.Core.DefTextConverterBase&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwEAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Converter\DefTextConverterBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTextConverterEntry&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAIBioEAAAEAAAAAIBAAEAEIQCAARAAAAAAAAAA=</HashCode>
+      <FileName>Converter\DefTextConverterEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTransposeInit&lt;TArg, TRes&gt;">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAABGAAAAEMBAAAAAAAAABAAAACAA=</HashCode>
+      <FileName>Transposer\Base\DefTransposeInit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTextPosTransposer" Collapsed="true">
+    <Position X="1" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\DefTextTransposer.cs</FileName>
+      <NewMemberFileName>TRansposer\DefTextTransposer.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTextTransposer&lt;T&gt;" Collapsed="true">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\DefTextTransposer.cs</FileName>
+      <NewMemberFileName>TRansposer\DefTextTransposer.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTextPreTypeTransposer" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Transposer\DefTextTransposer.cs</FileName>
+      <NewMemberFileName>TRansposer\DefTextTransposer.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefPreTransposeBase&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\Base\DefTransposeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefPreTransposeBaseFor&lt;TObj, TTransform&gt;" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\Base\DefTransposeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefPreTransformDefault" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\Base\DefTransposeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefPreTransformDefaultFor&lt;TObj&gt;" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\Base\DefTransposeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.CommonTextTransposition" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\Helper\CommonTextTransposition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.CommonParserToText" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAAAAAEAAAAAAAAICAAAAEAAAAAAAA=</HashCode>
+      <FileName>Transposer\Helper\CommonParserToText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Core.DefTextSize" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Transposer\DefTextSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.DefTransposeTextDefault&lt;TArg&gt;" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\DefTransposeTextDefault.cs</FileName>
+      <NewMemberFileName>TRansposer\DefTransposeTextDefault.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.DefPosTransposition" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transposer\DefTransposeTextDefault.cs</FileName>
+      <NewMemberFileName>TRansposer\DefTransposeTextDefault.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.DefPosTransformFor&lt;T&gt;" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Def\DefTransposeTextDefault.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.DefinitionPosTransformHelper" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Def\DefTransposeTextDefault.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Helper.EnumerableExtensions" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\EnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JLVidalTranspose.Helper.ExtGen" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGDAAAAAEAAAAgAAAKQAADgAAgCAAAABAEAAAAAA=</HashCode>
+      <FileName>Helper\ExtGen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transpose.UnitTest1" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitTest1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="JLVidalTranspose.Core.IDefTextConverter" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Converter\IDefTextConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="JLVidalTranspose.Core.IDefTextConverter&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\IDefTextConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="JLVidalTranspose.Core.IDefTranspose" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Transposer\Base\IDefTranspose.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
